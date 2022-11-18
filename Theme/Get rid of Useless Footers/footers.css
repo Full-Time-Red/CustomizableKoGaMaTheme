@@ -1,0 +1,14 @@
+/* Getting rid of pointless stuff  */
+
+footer #footer-about  {
+	display: none;
+}
+footer #footer-header {
+	display: none;
+}
+footer #footer-links {
+	display: none;
+}
+footer #footer-company {
+	display: none;
+}
