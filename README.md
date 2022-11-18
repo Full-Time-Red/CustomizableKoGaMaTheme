@@ -4,10 +4,11 @@ This theme is made for personal usage, simply fooling with CSS.
 
 # Original Inspiration
 
-This theme bases a lot on custom CSS made by my other people, such as: DAPY4U, IloveCry, and Snooth
+This theme bases a lot on custom CSS made by other people, such as: DAPY4U, IloveCry, and Snooth
 
 # Current Outlook
 - Version: 0.3
 
 
 ![image](https://user-images.githubusercontent.com/96681438/202758545-bbe91fc4-33bd-4858-904e-6b84fb7ef25f.png)
+![image](https://user-images.githubusercontent.com/96681438/202759407-b4c1c4a3-178c-4e6f-a469-01b2825053ac.png)
