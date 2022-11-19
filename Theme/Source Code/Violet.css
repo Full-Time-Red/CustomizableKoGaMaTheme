@@ -82,6 +82,7 @@
 }
 [class*=" icon-"]:before, [class^=icon-]:before {
 		margin-right: 1.2em;
+		
 }
 body#root-page-mobile header#pageheader #meta-nav>li.profile-credits .xp-level a {
 	width: 40px;
@@ -108,7 +109,7 @@ body#root-page-mobile header#pageheader #meta-nav>li.profile-notify .header-icon
 ._1Yhgq {max-width: 65px;min-width: 65px;transition: 0.5s ease;}
 ._1Yhgq:hover {max-width: 240px;min-width: 240px;transition: 0.5s ease;}
  }
- 
+
  
                /* Feed */
 
@@ -244,20 +245,21 @@ body#root-page-mobile header#pageheader .logo .logo-image {
 /* Profile Progression  padding | Font   */
 	   /* gold */
 	#mobile-page #profile-page .section-top .progression .gold {
-    padding: 3 0 0 50.1rem;
+    padding: 2 0 0 50.1rem;
 	}
 	/* friends */
 	#mobile-page #profile-page .section-top .progression .friends {
-    padding: 0 0 0 50.875rem;
+    padding: 0 0 0 50.475rem;
+    
 	}
 	/* Ranking */
 	#mobile-page #profile-page .section-top .progression .rank {
-     padding: 0 0 0 50.875rem;
+     padding: 0 0 0 50.475rem;
 }
 
 #mobile-page #profile-page .section-top .profile-badges .profile-badge-list {
-    position: relative;
-    margin-left: 10px;
+    position: absolute;
+    margin-left: 40px;
     margin-bottom: 10px
 }
 
@@ -265,8 +267,10 @@ body#root-page-mobile header#pageheader .logo .logo-image {
     position: relative;
     margin-left: 1040px;
 }
-
+#mobile-page #profile-page .section-top .progression {
+padding-left: 0px;
 }
+
 /* Font Size & Margin */
 #mobile-page #profile-page .section-top .progression .progression-item {
     font-size: 130%;
