@@ -17,6 +17,9 @@
     fill: transparent;
     stroke-width: 0px;
 }
+
+
+
 /* Description + Creations Properties */
 #mobile-page #profile-page section.creations-custom .section-description .description-container .header {
 		border: double;
@@ -57,7 +60,45 @@
 }
 
 
-/* Friendlist Stuff */
+/* Profile GUI & Friendlist stuff */
+
+
+  /*Notifications*/
+.menu-icon {
+    width: 14px
+}
+#root-page-mobile #header-notify-toggle #notify .container .sections-container{
+		 background-image: url("https://wallpaperaccess.com/full/233593.jpg")
+		 
+}
+#root-page-mobile #header-notify-toggle #notify .container {
+    padding: 0;
+    margin-left: -400px;
+	position: absolute;
+    top: 30px;
+    right: 30px;
+    left: 30px;
+    bottom: 30px;
+}
+#root-page-mobile #header-notify-toggle #notify .container .sections-container {
+	height: 300px;
+	width: 150;
+}
+
+#root-page-mobile #header-notify-toggle #notify .container .exit {
+    position: absolute;
+    top: -4px;
+    right: -4px;
+    background-color: inherit;
+    z-index: 3
+}
+
+#root-page-mobile #header-notify-toggle #notify .container .exit a {
+    border: none;
+    line-height: 20px;
+    font-size: 14px
+}
+
 
 ._3TORb {
 	background-color: transparent;
@@ -84,6 +125,14 @@
 		margin-right: 1.2em;
 		
 }
+
+#root-page-mobile #header-notify-toggle #notify .container .exit {
+		position: absolute;
+    top: 10px;
+    right: 5px;
+    background-color: inherit;
+    z-index: 3;
+}
 body#root-page-mobile header#pageheader #meta-nav>li.profile-credits .xp-level a {
 	width: 40px;
 }
@@ -104,6 +153,9 @@ body#root-page-mobile header#pageheader #meta-nav>li.profile-notify .header-icon
     box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%);
     z-index: 1;
 }
+
+
+
 /* hover friendlist */
 ._1Yhgq {min-width: unset;position: absolute; right:0;}
 ._1Yhgq {max-width: 65px;min-width: 65px;transition: 0.5s ease;}
@@ -306,6 +358,19 @@ body#root-page-mobile header#pageheader nav.menu>ol>li a {
 .text-gold {
     color: #ac78d6!important;
 }
+
+
+
+body#root-page-mobile header#pageheader #meta-nav {
+	background-color: transparent;
+}
+
+
+
+
+
+
+
 
 /*Shop stuff*/
 
