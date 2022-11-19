@@ -75,3 +75,21 @@
 	color: transparent;
     background-color: #73578a;
 }
+/* Profile Progression  padding | Font   */
+	   /* gold */
+	#mobile-page #profile-page .section-top .progression .gold {
+    padding: 3 0 0 50.1rem;
+	}
+	/* friends */
+	#mobile-page #profile-page .section-top .progression .friends {
+    padding: 0 0 0 50.875rem;
+	}
+	/* Ranking */
+	#mobile-page #profile-page .section-top .progression .rank {
+     padding: 0 0 0 50.875rem;
+}
+/* Font Size & Margin */
+#mobile-page #profile-page .section-top .progression .progression-item {
+    font-size: 130%;
+	margin-top: 20px;
+}
