@@ -1,0 +1,204 @@
+               /* Main Site View */
+
+/* Background Image | Position | Hght  */
+#content-container{
+  background-image: url("https://i.pinimg.com/originals/09/8a/9a/098a9a0d598ff7d8c97a1e3ed84a47b3.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100%;
+}
+/*Profile Frame*/
+.UA3TP ._11RkC {
+    stroke: #333;
+    fill: transparent;
+    stroke-width: 0px;
+}
+
+               /* Feed */
+
+/* Feed | Post Button  */
+#profile-status-update .button-wrapper button {
+    height: 100%;
+    width: 100%;
+	color: transparent;
+    background-color: #73578a;
+}
+/* Feed | Post Text Field  */
+#profile-status-update form.status-message textarea {
+    height: 50px;
+    background-color: transparent;
+	border: double;
+	border-color: #a28db3;
+}
+/* Feed | Post properties */
+#profile-news-feed ul.news-feed-thumbs>li.item .feed-header .feed-text .user {
+    color: #beadcc;
+    font-size: 1rem;
+}
+#profile-news-feed ul.news-feed-thumbs>li.item.status_updated .feed-item .status-message,#profile-news-feed ul.news-feed-thumbs>li.item.wall_post .feed-item .status-message {
+    word-wrap: break-word;
+    word-break: break-all;
+    clear: left;
+    padding: 0 10px;
+    font-size: 105%;  
+    color: rgb(180,165,209);
+}
+#root-page-mobile .comments li .header {
+	    display: block;
+    padding-bottom: 0px;
+}
+#root-page-mobile #profile-news-feed .feed-comments .comments ul.comment-list li .body {
+	color: #946de3;
+}
+#root-page-mobile #profile-news-feed .feed-comments .comments ul.comment-list li .header .username a {
+    color: #beadcc;
+}
+#profile-news-feed ul.news-feed-thumbs>li.item {
+    padding: 0 0px 0px;
+    position: relative;
+    background-color: transparent;
+    color: rgba(0,0,0,.67);
+    margin-bottom: 1rem;
+    border: double;
+    border-radius: 2px;
+}
+#root-page-mobile #profile-news-feed .feed-comments .comments form textarea {
+	background-color: transparent;
+	border: double;
+}
+#root-page-mobile #profile-news-feed .feed-comments .comments form button {
+	color: transparent;
+    background-color: #73578a;
+}
+/*avatarpage*/
+#mobile-page #profile-avatar-list .avatar-list .item .avatar-image {
+    display: block;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 25px;
+    padding: 20px; 
+    width: 240px;
+    height: 350px;  
+}
+
+#mobile-page #profile-avatar-list .avatar-list .item .set-active {
+    border-radius: 25px;
+    padding: 20px; 
+    width: 250px;
+    height: 50px; 
+}
+.pure-button-success, a.pure-button-success {
+    color: #fff;
+    background-color: #ffffff5e;
+    margin-bottom: 2rem;
+    border-radius: 16px;
+}
+
+#mobile-page #profile-avatar-list section.create-avatar-info {
+    background-color: #2196f300;
+    background-image: -webkit-linear-gradient(45deg,#51adf600 25%,transparent 0,transparent 50%,#51adf600 0,#51adf600 75%,transparent 0,transparent);
+    background-image: -o-linear-gradient(45deg,#51adf6 25%,transparent 25%,transparent 50%,#51adf6 50%,#51adf6 75%,transparent 75%,transparent);
+    background-image: linear-gradient(45deg,#51adf600 25%,transparent 0,transparent 50%,#51adf600 0,#51adf600 75%,transparent 0,transparent);
+    padding: 10px;
+    border-radius: 4px;
+    -webkit-box-shadow: 0 3px 3px -2px rgb(0 0 0 / 0%);
+    box-shadow: 0 3px 3px -2pxrgba(0,0,0,.47);
+    padding: 20px 16px;
+    margin: 10px 10px 16px;
+}
+
+#mobile-page #profile-avatar-list section.create-avatar-info .call-to-action, #mobile-page #profile-avatar-list section.create-avatar-info .signup-button {
+    float: right;
+    border-radius: 25px;
+    padding: 20px; 
+}
+
+
+
+/* Getting rid of pointless stuff  */
+
+footer #footer-about  {
+	display: none;
+	
+}
+
+footer #footer-header {
+	display: none;
+}
+
+footer #footer-links {
+	display: none;
+}
+footer #footer-company {
+	display: none;
+}
+body#root-page-mobile header#pageheader .logo .logo-image {
+    display: none;
+}
+#mobile-page #profile-page .section-top .progression .level {
+   display: none;
+}
+
+/* Profile Progression  padding | Font   */
+	   /* gold */
+	#mobile-page #profile-page .section-top .progression .gold {
+    padding: 3 0 0 50.1rem;
+	}
+	/* friends */
+	#mobile-page #profile-page .section-top .progression .friends {
+    padding: 0 0 0 50.875rem;
+	}
+	/* Ranking */
+	#mobile-page #profile-page .section-top .progression .rank {
+     padding: 0 0 0 50.875rem;
+}
+
+#mobile-page #profile-page .section-top .profile-badges .profile-badge-list {
+    position: relative;
+    margin-left: 10px;
+    margin-bottom: 10px
+}
+
+#mobile-page #profile-page .section-top .profile-badges .profile-badge-list {
+    position: relative;
+    margin-left: 1040px;
+}
+
+}
+/* Font Size & Margin */
+#mobile-page #profile-page .section-top .progression .progression-item {
+    font-size: 130%;
+	margin-top: 20px;
+}
+
+
+
+
+
+
+/* Categories  */
+	
+
+	/* Do Not Display Icons */
+
+body#root-page-mobile header#pageheader nav.menu>ol>li a i {
+	display: none;
+	
+	/* Font | Position | Padding | Color  */
+	
+}
+body#root-page-mobile header#pageheader nav.menu>ol>li a {
+    display: block;
+    line-height: 20px;
+    padding: 14px 80px;
+    font-size: 1.1rem;
+    text-transform: none;
+    color: #ac78d6;
+    font-family: Open Sans,sans-serif;
+    font-weight: 700;
+}
+.text-gold {
+    color: #ac78d6!important;
+}
