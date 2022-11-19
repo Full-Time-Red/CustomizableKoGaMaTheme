@@ -7,4 +7,5 @@ Gets rid of useless stickers and site features.
 
 - After
 
-![image](https://user-images.githubusercontent.com/96681438/202761275-b5946341-d89a-48cc-bfa3-d83b63ef6273.png)
+![image](https://user-images.githubusercontent.com/96681438/202829150-638a82b1-fe3b-492d-ae2c-29787afd969f.png)
+
