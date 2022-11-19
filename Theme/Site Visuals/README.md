@@ -2,11 +2,11 @@
 
 - Categories 
  
-![image](https://user-images.githubusercontent.com/96681438/202760354-4bc4f4b0-29db-47ed-adbb-8394417a3218.png)
+![image](https://user-images.githubusercontent.com/96681438/202831013-39d83e73-2cec-4943-bbbf-cdccfaf770bb.png)
 
 - Background 
 
-![image](https://user-images.githubusercontent.com/96681438/202760536-4ae8e167-bd7f-429c-ae82-65edf01b9e8e.png)
+![image](https://user-images.githubusercontent.com/96681438/202831021-c1430a25-b954-4046-8836-93706fce5458.png)
 
 
 - Your Avatar Page
