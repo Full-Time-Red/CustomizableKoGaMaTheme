@@ -2,7 +2,7 @@
 
 /* Background Image | Position | Hght  */
 #content-container{
-  background-image: url("https://i.imgur.com/cJVptI9.gif");
+  background-image: url("https://wallpaperaccess.com/full/17494.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -17,9 +17,13 @@
     fill: transparent;
     stroke-width: 0px;
 }
-
-
-
+/* Join date */ 
+#mobile-page #profile-page .section-top .profile-meta .profile-created-date {
+    float: left;
+    padding: 400px;
+    color: rgba(235, 52, 88);
+    font-size: 80%;
+}
 /* Description + Creations Properties */
 #mobile-page #profile-page section.creations-custom .section-description .description-container .header {
 		border: double;
@@ -99,7 +103,12 @@
     font-size: 14px
 }
 
+/* Gradient Username */
 
+
+
+
+/* Useless stuff */
 ._3TORb {
 	background-color: transparent;
 }
@@ -550,4 +559,89 @@ body#root-page-mobile header#pageheader #meta-nav {
 }
 #mobile-page #product-detail #product-purchase-link #purchase-confirm-container .modal-content .transaction-message {
 	color: #8e6a9e;
+}
+
+/* Account settings */
+
+body#root-page-mobile header#pageheader #profile-extended {
+	display: none;
+    position: fixed;
+    top: 48px;
+    right: 0;
+    z-index: 1012;
+    width: 100%;
+    max-width: 450px;
+    height: 100%;
+    min-height: 200px;
+    background-color: transparent;
+    -webkit-box-shadow: -4px 7px 10px rgb(0 0 0 / 30%);
+    box-shadow: -4px 7px 10px rgb(0 0 0 / 30%);
+    overflow-y: auto;
+}
+
+body#root-page-mobile header#pageheader #profile-extended .user-credits .xp-level a .level-image {
+	display: none;
+}
+	body#root-page-mobile header#pageheader #profile-extended .user-credits .xp-level {
+		display: none;
+	}
+body#root-page-mobile header#pageheader #profile-extended .user-credits .gold .data, body#root-page-mobile header#pageheader #profile-extended .user-credits .silver .data {
+	background-color: transparent;
+    display: block;
+    margin: 10px 100 0px 0px;
+    border-radius: 7px 5px 5px 7px;
+    text-align: center;
+    color: #ff0055;
+}
+body#root-page-mobile header#pageheader #profile-extended .username {
+	background-color: transparent;
+}
+
+body#root-page-mobile header#pageheader #profile-extended .user-credits {
+	background-color: transparent;
+}
+
+body#root-page-mobile header#pageheader #profile-extended .profile-links .arrow-top {
+	display: none;
+}
+
+/* Chat box */
+
+._375XK ._2XaOw {
+	padding: 0em;
+	
+}
+
+.zUJzi .o_DA6 .uwn5j {
+	    position: relative;
+    height: 100%;
+    border-right: 1px solid #5c343c;
+    padding: 0;
+}
+.zUJzi .o_DA6 .uwn5j ._3DYYr._2dPu4 {
+    border-left: 2px solid #db4865;
+}
+
+._2XaOw {
+background: #23272A;
+}
+.uwn5j {
+	background: #23272A;
+}
+.F3PyX {
+	background: #23272A;
+}
+
+._375XK textarea {
+	background-color: rgba(79, 70, 72);
+}
+
+._375XK ._2XaOw ._1j2Cd p {
+	background-color: #665570;
+	border-radius: 25px;
+	
+}
+
+._375XK ._2XaOw ._1j2Cd._1Xzzq p {
+	background-color: hsl(327, 21%, 40%);
 }
