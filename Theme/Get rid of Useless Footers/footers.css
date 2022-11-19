@@ -19,3 +19,6 @@ footer #footer-company {
 body#root-page-mobile header#pageheader .logo .logo-image {
     display: none;
 }
+#mobile-page #profile-page .section-top .progression .level {
+   display: none;
+}
