@@ -14,13 +14,16 @@ Current Theme Version: 1.3
 <p>
 This theme bases on some custom CSS made by those people: 
 
-[DAPY4U](https://greasyfork.org/en/users/570826-dapy-4u)
+* Second Contributor: [IloveCry](https://github.com/ilovecry)
 
-[IloveCry](https://github.com/ilovecry)
-
-Snooth
-
+ [DAPY4U](https://greasyfork.org/en/users/570826-dapy-4u)
+ 
 [Devorkk.](https://github.com/Devorkk)
+ 
+ 
+ Snooth
+
+
 </details>
 
 ## How to Use
