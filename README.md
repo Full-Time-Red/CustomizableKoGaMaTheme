@@ -1,11 +1,19 @@
-# Personal KoGaMa Theme [ Work in progress ] 
 
-This theme is made for personal usage, simply fooling with CSS.
+## Personal KoGaMa Theme
+<details><summary>Reveal Information</summary>
+<p>
+* Theme created for personal usage.
 
-# Original Inspiration
+Work on this theme is still in progress.
 
+Current Theme Version: 0.3.2
+</details>
+
+
+## Original Inspiration
+<details><summary>Reveal Credits</summary>
+<p>
 This theme bases on some custom CSS made by those people: 
-
 
 [DAPY4U](https://greasyfork.org/en/users/570826-dapy-4u)
 
@@ -13,9 +21,38 @@ This theme bases on some custom CSS made by those people:
 
 Snooth
 
-# Current Outlook
-- Version: 0.3.2
+[Devorkk.](https://github.com/Devorkk)
+</details>
 
 
-![image](https://user-images.githubusercontent.com/96681438/202831985-c330d3e1-7f99-46bc-bc6f-21157c4423b9.png)
-![image](https://user-images.githubusercontent.com/96681438/202830874-712590b0-3964-4876-a2c7-a1fb3c31952f.png)
+## Current Preview
+<details><summary>Reveal Images</summary>
+
+![image](https://user-images.githubusercontent.com/96681438/202832437-f1c57fc5-f450-43e0-929e-fd4de5e534fc.png)
+![image](https://user-images.githubusercontent.com/96681438/202832441-b1f1cb26-a22d-4282-a3ff-282d3386abdd.png)
+
+</details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
