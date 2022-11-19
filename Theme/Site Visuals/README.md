@@ -17,3 +17,8 @@
 - Feed 
 
 ![image](https://user-images.githubusercontent.com/96681438/202831140-39566929-4c59-4730-914b-5d91b81faad4.png)
+
+
+- Profile Stuff Padding
+
+![image](https://user-images.githubusercontent.com/96681438/202831192-cad6ab51-a892-4961-8b9f-dd45be3f51eb.png)
