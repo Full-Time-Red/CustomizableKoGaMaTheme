@@ -4,8 +4,9 @@
 <p>
 * Theme created for personal usage.
 
+Second Contributor: [IloveCry](https://github.com/ilovecry)
 
-Current Theme Version: 1.3
+Current Theme Version: 1.7
 </details>
 
 
@@ -14,7 +15,6 @@ Current Theme Version: 1.3
 <p>
 This theme bases on some custom CSS made by those people: 
 
-* Second Contributor: [IloveCry](https://github.com/ilovecry)
 
  [DAPY4U](https://greasyfork.org/en/users/570826-dapy-4u)
  
