@@ -2,7 +2,7 @@
 
 /* Background Image | Position | Hght  */
 #content-container{
-  background-image: url("https://wallpaperaccess.com/full/17494.jpg");
+  background-image: url("https://i.imgur.com/yL7OKFC.gif");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -20,10 +20,17 @@
 /* Join date */ 
 #mobile-page #profile-page .section-top .profile-meta .profile-created-date {
     float: left;
-    padding: 400px;
+    padding: 550px;
     color: rgba(235, 52, 88);
     font-size: 80%;
 }
+
+/* username padding */
+#mobile-page #profile-page .section-top .username {
+	padding-left: 800px;
+}
+
+
 /* Description + Creations Properties */
 #mobile-page #profile-page section.creations-custom .section-description .description-container .header {
 		border: double;
@@ -644,4 +651,51 @@ background: #23272A;
 
 ._375XK ._2XaOw ._1j2Cd._1Xzzq p {
 	background-color: hsl(327, 21%, 40%);
+}
+
+#mobile-page #profile-page .section-top .username h2 a {
+  font-family:arial black;
+  font-size:30px;
+  background: repeating-linear-gradient(-45deg, red 0%, yellow 7.14%, rgb(0,255,0) 14.28%,
+  rgb(0,255,255) 21.4%, cyan 28.56%, blue 35.7%, magenta 42.84%, red 50%);
+  background-size: 600vw 600vw;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  animation: slide 5s linear infinite forwards;
+}
+@keyframes slide {
+  0%{
+    background-position-x: 0%;
+  }
+  100%{
+    background-position-x: 600vw;
+  }
+}
+
+#mobile-page #profile-page .section-top .username h2 {
+    font-family: Dosis,dosis;
+    color: hsla(0,0%,100%,.83);
+    text-shadow: 0 0 1pxrgba(0,0,0,.43);
+    margin: 0;
+    padding: 0;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    overflow-wrap: normal;
+    white-space: nowrap;
+    padding-right: 10px;
+    overflow: hidden;
+    background: repeating-linear-gradient(-45deg, red 0%, yellow 7.14%, rgb(0,255,0) 14.28%,
+    rgb(0,255,255) 21.4%, cyan 28.56%, blue 35.7%, magenta 42.84%, red 50%);
+    background-size: 600vw 600vw;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+     animation: slide 5s linear infinite forwards;
+}
+@keyframes slide {
+  0%{
+    background-position-x: 0%;
+  }
+  100%{
+    background-position-x: 600vw;
+  }
 }
