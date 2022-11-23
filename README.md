@@ -52,11 +52,11 @@ Download [User JavaScript and CSS](https://chrome.google.com/webstore/detail/use
 ## Current Preview
 <details><summary>Reveal Images</summary>
 
-![image](https://user-images.githubusercontent.com/96681438/202850814-e59ec070-4f29-43cc-b01c-035a3665d573.png)
-![image](https://user-images.githubusercontent.com/96681438/202850819-5d1f7e17-b75a-449d-af86-8773bd3f1829.png)
-![image](https://user-images.githubusercontent.com/96681438/202850833-bb619327-a7c8-4a8d-8c99-b8b128f0bf2e.png)
-![image](https://user-images.githubusercontent.com/96681438/202850840-40f052f4-c31e-401a-ba59-22e07efee3c4.png)
-![image](https://user-images.githubusercontent.com/96681438/202850875-712b7aed-af01-4838-b822-479c9e04ab51.png)
+![image](https://user-images.githubusercontent.com/96681438/203616194-c21cdc1d-e93e-4def-8136-6456d3755ee8.png)
+![image](https://user-images.githubusercontent.com/96681438/203616220-d36e70ec-066e-4fd5-b1f6-ab04277819a7.png)
+![image](https://user-images.githubusercontent.com/96681438/203616261-c8b4f08f-6c39-4a45-ba44-9177f869c640.png)
+![image](https://user-images.githubusercontent.com/96681438/203616313-d7fc118d-3c74-4117-a20a-24a652310f1e.png)
+
 
 
 </details>
