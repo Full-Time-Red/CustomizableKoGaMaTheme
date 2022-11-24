@@ -1,0 +1,27 @@
+#root-page-mobile #header-notify-toggle #notify .container {
+    padding: 0;
+    margin-left: -400px;
+	position: absolute;
+    top: 30px;
+    right: 30px;
+    left: 30px;
+    bottom: 30px;
+}
+#root-page-mobile #header-notify-toggle #notify .container .sections-container {
+	height: 300px;
+	width: 150;
+}
+
+#root-page-mobile #header-notify-toggle #notify .container .exit {
+    position: absolute;
+    top: -4px;
+    right: -4px;
+    background-color: inherit;
+    z-index: 3
+}
+
+#root-page-mobile #header-notify-toggle #notify .container .exit a {
+    border: none;
+    line-height: 20px;
+    font-size: 14px
+}

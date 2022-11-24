@@ -1,0 +1,30 @@
+#mobile-page #profile-page .creations-feed section.creations-custom {
+    margin-right: 0px;
+}
+
+#mobile-page #profile-page section.creations-custom .creation-list .creation-item .display-image {
+	padding-top: 0%;
+	background-size: cover;
+	
+}
+#mobile-page #profile-page section.creations-custom .creation-list .creation-item .caption-container {
+	border-radius: 25px;
+}
+#mobile-page #profile-page section.creations-custom .creation-list .creation-item .creation-stats {
+	display: none;
+}
+#mobile-page #profile-page section.creations-custom .creation-list .creation-item .caption-container {
+	height: 0px;
+}
+#mobile-page #profile-page section.creations-custom .creation-list .creation-item.empty .display-container .inner {
+	display: none;
+}
+#mobile-page #profile-page section.creations-custom .creation-list .creation-item.empty .display-container {
+	padding-top: 0%;
+}
+.icon-cubeforce-fix:before {
+	display: none;
+}
+.icon-vintage-robot:before {
+	display: none;
+}

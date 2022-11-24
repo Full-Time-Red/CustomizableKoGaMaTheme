@@ -1,0 +1,55 @@
+/* Useless stuff */
+._3TORb {
+	background-color: transparent;
+}
+	
+._3TORb ._2E1AL {
+    display: flex;
+    padding: 2em;
+    border-bottom: none;
+}
+._3TORb ._2E1AL ._4RanE {
+    flex: 0;
+}
+._3TORb ._1Yhgq, ._3TORb ._3iXbw {
+	background-color: transparent;
+}
+.xp-bar .xp-text {
+	display: none;
+}
+.xp-bar .progress {
+	display: none;
+}
+[class*=" icon-"]:before, [class^=icon-]:before {
+		margin-right: 1.2em;
+		
+}
+
+#root-page-mobile #header-notify-toggle #notify .container .exit {
+		position: absolute;
+    top: 10px;
+    right: 5px;
+    background-color: inherit;
+    z-index: 3;
+}
+body#root-page-mobile header#pageheader #meta-nav>li.profile-credits .xp-level a {
+	width: 40px;
+}
+body#root-page-mobile header#pageheader #meta-nav>li.profile-notify .header-icon-count {
+	background-color: transparent;
+    position: absolute;
+    top: 0;
+    right: -8px;
+    font-size: .625rem;
+    padding: 0 3px;
+    margin-top: 3px;
+    border-radius: 2px;
+    font-family: Open Sans,sans-serif;
+    font-weight: 700;
+    cursor: pointer;
+    will-change: box-shadow;
+    -webkit-box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%);
+    box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%);
+    z-index: 1;
+}
+

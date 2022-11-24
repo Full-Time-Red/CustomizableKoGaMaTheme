@@ -1,0 +1,31 @@
+/* Categories  */
+	
+
+	/* Do Not Display Icons */
+
+body#root-page-mobile header#pageheader nav.menu>ol>li a i {
+	display: none;
+	
+	/* Font | Position | Padding | Color  */
+	
+}
+body#root-page-mobile header#pageheader nav.menu>ol>li a {
+    display: block;
+    line-height: 20px;
+    padding: 14px 80px;
+    font-size: 1.1rem;
+    text-transform: none;
+    color: #ac78d6;
+    font-family: Open Sans,sans-serif;
+    font-weight: 700;
+}
+.text-gold {
+    color: #ac78d6!important;
+}
+
+
+
+body#root-page-mobile header#pageheader #meta-nav {
+	background-color: transparent;
+}
+

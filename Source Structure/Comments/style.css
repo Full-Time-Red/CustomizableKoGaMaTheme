@@ -1,0 +1,64 @@
+/*comment*/ 
+
+#root-page-mobile .comments li .body {
+    position: relative;
+    display: block;
+    padding: 10px 14px;
+    color: #000000;
+    background: #ccd1d900;
+    border-radius: 2px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 15px;
+    -o-border-radius: 2px;
+    -webkit-box-shadow: 0 2px 1px rgb(11 12 15 / 0%);
+    box-shadow: 0 2px 1pxrgba(11,12,15,.3);
+}
+
+#root-page-mobile .comments li .body .arrow-left {
+    border-color: transparent #ccd1d9 transparent transparent;
+    left: -15px;
+}
+#root-page-mobile .comments li .body .arrow-left, #root-page-mobile .comments li .body .arrow-left-border {
+    border-style: none;
+    border-width: 8px;
+    height: 0;
+    width: 0;
+    position: absolute;
+    top: 10px;
+}
+
+.pure-form input[type=color], .pure-form input[type=date], .pure-form input[type=datetime-local], .pure-form input[type=datetime], .pure-form input[type=email], .pure-form input[type=month], .pure-form input[type=number], .pure-form input[type=password], .pure-form input[type=search], .pure-form input[type=tel], .pure-form input[type=text], .pure-form input[type=time], .pure-form input[type=url], .pure-form input[type=week], .pure-form select, .pure-form textarea {
+    padding: 0.45em 0.5em;
+    display: inline-block;
+    border: none;
+    border-radius: 1px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 16px;
+    -o-border-radius: 2px;
+    -webkit-box-shadow: inset 0 1px 3px rgb(80 80 80 / 10%);
+    box-shadow: inset 0 1px 3px rgb(80 80 80 / 10%);
+    -webkit-transition: border .3s linear;
+    -o-transition: .3s linear border;
+    transition: border .3s linear;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    background-color: #f8f8f85c;
+}
+#root-page-mobile .comments li .header .username a {
+	color: #825a9c;
+	padding-right: 400px;
+}
+#root-page-mobile .comments li .text {
+	color: #ba94d1;
+}
+#mobile-page #product-detail .product-purchase .product-image {
+	border-radius: 25px;
+	box-shadow: none;
+}
+
+#mobile-page #product-detail #product-purchase-link #purchase-confirm-container .modal-content {
+	background-color: transparent;
+}
+#mobile-page #product-detail #product-purchase-link #purchase-confirm-container .modal-content .transaction-message {
+	color: #8e6a9e;
+}

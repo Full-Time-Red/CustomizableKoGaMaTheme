@@ -1,0 +1,7 @@
+/* Join date */ 
+#mobile-page #profile-page .section-top .profile-meta .profile-created-date {
+    float: left;
+    padding: 550px;
+    color: rgba(235, 52, 88);
+    font-size: 80%;
+}

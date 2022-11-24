@@ -1,0 +1,7 @@
+#mobile-page #profile-page section.creations-custom .section-description .description-container .header {
+		border: double;
+		border-radius: 25px;
+}
+#mobile-page #profile-page section.creations-custom .section-description .description-container .text {
+	font-size: .90rem;
+}

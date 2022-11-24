@@ -1,0 +1,21 @@
+footer #footer-about  {
+	display: none;
+	
+}
+
+footer #footer-header {
+	display: none;
+}
+
+footer #footer-links {
+	display: none;
+}
+footer #footer-company {
+	display: none;
+}
+body#root-page-mobile header#pageheader .logo .logo-image {
+    display: none;
+}
+#mobile-page #profile-page .section-top .progression .level {
+   display: none;
+}

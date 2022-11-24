@@ -1,0 +1,46 @@
+#mobile-page #profile-page .section-top .username h2 a {
+  font-family:arial black;
+  font-size:30px;
+  background: repeating-linear-gradient(-45deg, red 0%, yellow 7.14%, rgb(0,255,0) 14.28%,
+  rgb(0,255,255) 21.4%, cyan 28.56%, blue 35.7%, magenta 42.84%, red 50%);
+  background-size: 600vw 600vw;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  animation: slide 5s linear infinite forwards;
+}
+@keyframes slide {
+  0%{
+    background-position-x: 0%;
+  }
+  100%{
+    background-position-x: 600vw;
+  }
+}
+
+#mobile-page #profile-page .section-top .username h2 {
+    font-family: Dosis,dosis;
+    color: hsla(0,0%,100%,.83);
+    text-shadow: 0 0 1pxrgba(0,0,0,.43);
+    margin: 0;
+    padding: 0;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    overflow-wrap: normal;
+    white-space: nowrap;
+    padding-right: 10px;
+    overflow: hidden;
+    background: repeating-linear-gradient(-45deg, red 0%, yellow 7.14%, rgb(0,255,0) 14.28%,
+    rgb(0,255,255) 21.4%, cyan 28.56%, blue 35.7%, magenta 42.84%, red 50%);
+    background-size: 600vw 600vw;
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+     animation: slide 5s linear infinite forwards;
+}
+@keyframes slide {
+  0%{
+    background-position-x: 0%;
+  }
+  100%{
+    background-position-x: 600vw;
+  }
+}

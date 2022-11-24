@@ -1,0 +1,14 @@
+._3zDi- {
+  font-family:arial black;
+  font-size:16px;
+  background-image:
+    linear-gradient(to right, #384d47,#ba6a9a,#ba6a9a,#5e6fad,#845ead,#411f66,#823e49,#823e49);
+  -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  animation: rainbow-animations 1000s linear infinite;
+}
+@keyframes rainbow-animations {
+    to {
+        background-position: 4500vh;
+}
+`
