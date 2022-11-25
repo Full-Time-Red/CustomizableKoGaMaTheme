@@ -382,9 +382,7 @@ padding-left: 0px;
 
 
 /* Categories  */
-	
- font-size: 1rem;
-}
+
 	/* Do Not Display Icons */
 
 body#root-page-mobile header#pageheader nav.menu>ol>li a i {
