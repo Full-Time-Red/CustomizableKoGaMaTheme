@@ -212,17 +212,8 @@ body#root-page-mobile header#pageheader #meta-nav>li.profile-notify .header-icon
     font-size: 1rem;
       color: #fff;
   text-align: center;
-  animation: glow 1s ease-in-out infinite alternate;
 }
-@-webkit-keyframes glow {
-  from {
-    text-shadow: 0 0 10px #fff, 0 0 10px #fff, 0 0 0px #e60073, 0 0 10px #e60073, 0 0 10px #e60073, 0 0 10px #e60073, 0 0 10px #e60073;
-  }
-  
-  to {
-    text-shadow: 0 0 10px #fff, 0 0 10px #ff4da6, 0 0 10px #ff4da6, 0 0 10px #ff4da6, 0 0 10px #ff4da6, 0 0 10px #ff4da6, 0 0 10px #ff4da6;
-  }
-}
+
 #profile-news-feed ul.news-feed-thumbs>li.item.status_updated .feed-item .status-message, #profile-news-feed ul.news-feed-thumbs>li.item.wall_post .feed-item .status-message {
 	color: #f54254;
 	
@@ -383,8 +374,6 @@ padding-left: 0px;
 
 /* Categories  */
 	
- font-size: 1rem;
-}
 	/* Do Not Display Icons */
 
 body#root-page-mobile header#pageheader nav.menu>ol>li a i {
@@ -813,4 +802,3 @@ background: #23272A;
     word-wrap: unset;
     line-height: 48px;
 }
-
