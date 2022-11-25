@@ -811,14 +811,6 @@ background: #23272A;
     text-overflow: ellipsis;
     white-space: nowrap;
     word-wrap: unset;
-    line-height: 48px
-}
-
-#mobile-page #game-play section.more-games .games-list {
-	display: none;
-}
-
-#mobile-page #game-play section.description.visible {
-	display: none;
+    line-height: 48px;
 }
 
