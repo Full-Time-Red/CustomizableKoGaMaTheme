@@ -170,15 +170,23 @@ body#root-page-mobile header#pageheader #meta-nav>li.profile-notify .header-icon
     box-shadow: 0 2px 2px 0 rgb(0 0 0 / 14%);
     z-index: 1;
 }
-
-
-
+._3TORb ._1lvYU ._1Dx5s ._3n8oD {
+	
+	background-color: transparent;
+    padding: 0.25em 0.5em;
+    border-radius: 25px;
+    font-size: .95em;
+    font-weight: 700;
+}
+ 
 /* hover friendlist */
 ._1Yhgq {min-width: unset;position: absolute; right:0;}
 ._1Yhgq {max-width: 65px;min-width: 65px;transition: 0.5s ease;}
 ._1Yhgq:hover {max-width: 240px;min-width: 240px;transition: 0.5s ease;}
  }
- 
+
+
+
 
 
 
@@ -202,7 +210,23 @@ body#root-page-mobile header#pageheader #meta-nav>li.profile-notify .header-icon
 #profile-news-feed ul.news-feed-thumbs>li.item .feed-header .feed-text .user {
     color: #beadcc;
     font-size: 1rem;
-    
+      color: #fff;
+  text-align: center;
+  animation: glow 1s ease-in-out infinite alternate;
+}
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 10px #fff, 0 0 0px #e60073, 0 0 10px #e60073, 0 0 10px #e60073, 0 0 10px #e60073, 0 0 10px #e60073;
+  }
+  
+  to {
+    text-shadow: 0 0 10px #fff, 0 0 10px #ff4da6, 0 0 10px #ff4da6, 0 0 10px #ff4da6, 0 0 10px #ff4da6, 0 0 10px #ff4da6, 0 0 10px #ff4da6;
+  }
+}
+#profile-news-feed ul.news-feed-thumbs>li.item.status_updated .feed-item .status-message, #profile-news-feed ul.news-feed-thumbs>li.item.wall_post .feed-item .status-message {
+	color: #f54254;
+	
+}
 } 
 #profile-news-feed ul.news-feed-thumbs>li.item.status_updated .feed-item .status-message,#profile-news-feed ul.news-feed-thumbs>li.item.wall_post .feed-item .status-message {
     word-wrap: break-word;
@@ -359,7 +383,8 @@ padding-left: 0px;
 
 /* Categories  */
 	
-
+ font-size: 1rem;
+}
 	/* Do Not Display Icons */
 
 body#root-page-mobile header#pageheader nav.menu>ol>li a i {
@@ -510,6 +535,19 @@ body#root-page-mobile header#pageheader #meta-nav {
 	font-size: 86%;
 	
 }
+
+.icon-user:before {
+	display: none;
+}
+.icon-cube:before {
+	display: none;
+}
+
+
+
+#mobile-page .carousel .carousel-container .control-right {
+	right: -15px;
+}
 /*comment*/ 
 
 #root-page-mobile .comments li .body {
@@ -576,6 +614,10 @@ body#root-page-mobile header#pageheader #meta-nav {
 }
 
 /* Account settings */
+
+body#root-page-mobile header#pageheader #meta-nav>li.menu>a {
+	background-image: url('https://wallpaperaccess.com/full/2315752.jpg');
+}
 
 body#root-page-mobile header#pageheader #profile-extended {
 	display: none;
@@ -724,4 +766,59 @@ background: #23272A;
         background-position: 4500vh;
 }
 
+} 
+/* Player & Game info - loading.webgl */
+.sc-jhAzac gajmSX {
+    display: none;
+}
+
+.jGYmVE:nth-child(1) {
+	display: none;
+}
+
+.fRTvek {
+	display: none;
+}
+
+.eZAUTq  {
+	display: none;
+}
+
+.fLkmKE  {
+	display: none;
+}
+
+.eSKQMi {
+	display: none;
+}
+
+#unity #unity-player-container-wrapper.webgl-loading .container .game-image-container {
+	  filter: blur(8px);
+  -webkit-filter: blur(8px);
+
+}
+
+#mobile-page #game-play .creator-stats-container {
+	display: none;
+}
+
+#mobile-page #game-play section.title h1 {
+	margin: 50px;
+    padding: 0px;
+    padding-left: 365px;
+    font-size: 4.25rem;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    word-wrap: unset;
+    line-height: 48px
+}
+
+#mobile-page #game-play section.more-games .games-list {
+	display: none;
+}
+
+#mobile-page #game-play section.description.visible {
+	display: none;
+}
 
