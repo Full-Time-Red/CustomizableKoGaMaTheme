@@ -51,6 +51,10 @@ Download [User JavaScript and CSS](https://chrome.google.com/webstore/detail/use
 
 ## Current Preview
 <details><summary>Reveal Images</summary>
+This preview is for Glow.css
+
+If you do not want glowing / ligthen out elements - use Violet.css
+
 
 ![image](https://user-images.githubusercontent.com/96681438/204032750-d9a0102c-06d8-4da5-8e4a-4b7abb6e789d.png)
 ![image](https://user-images.githubusercontent.com/96681438/204032480-bdf43cf5-73fe-4373-8b2c-b4e340ac0b63.png)
