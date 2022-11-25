@@ -2,12 +2,13 @@
 
 /* Background Image | Position | Hght  */
 #content-container{
-  background-image: url("https://wallpaperaccess.com/full/2560467.jpg");
+  background-image: url("https://wallpaperaccess.com/full/2004767.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
   height: 100%;
+
 }
 
 
@@ -27,7 +28,7 @@
 
 /* username padding */
 #mobile-page #profile-page .section-top .username {
-	padding-left: 801px;
+	padding-left: 800px;
 }
 
 
@@ -71,7 +72,7 @@
 }
 
 
-/* Profile GUI & Friendlist stuff */
+
 
 
   /*Notifications*/
@@ -110,7 +111,7 @@
     font-size: 14px
 }
 
-/* Gradient Username */
+
 
 
 
@@ -177,8 +178,10 @@ body#root-page-mobile header#pageheader #meta-nav>li.profile-notify .header-icon
 ._1Yhgq {max-width: 65px;min-width: 65px;transition: 0.5s ease;}
 ._1Yhgq:hover {max-width: 240px;min-width: 240px;transition: 0.5s ease;}
  }
-
  
+
+
+
                /* Feed */
 
 /* Feed | Post Button  */
@@ -307,7 +310,11 @@ body#root-page-mobile header#pageheader .logo .logo-image {
     display: none;
 }
 #mobile-page #profile-page .section-top .progression .level {
-   display: none;
+   margin-left: 180px;
+   border-radius: 25px;
+}
+#mobile-page #profile-page .section-top .progression .level img {
+	
 }
 
 /* Profile Progression  padding | Font   */
@@ -322,7 +329,7 @@ body#root-page-mobile header#pageheader .logo .logo-image {
 	}
 	/* Ranking */
 	#mobile-page #profile-page .section-top .progression .rank {
-     padding: 0 0 0 50.475rem;
+     padding: 0 0 0 33.975rem;
 }
 
 #mobile-page #profile-page .section-top .profile-badges .profile-badge-list {
@@ -699,3 +706,22 @@ background: #23272A;
     background-position-x: 600vw;
   }
 }
+
+
+ /* RGB friendlist */
+
+._3zDi- {
+  font-family:arial black;
+  font-size:16px;
+  background-image:
+    linear-gradient(to right, #384d47,#ba6a9a,#ba6a9a,#5e6fad,#845ead,#411f66,#823e49,#823e49);
+  -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  animation: rainbow-animations 1000s linear infinite;
+}
+@keyframes rainbow-animations {
+    to {
+        background-position: 4500vh;
+}
+
+
